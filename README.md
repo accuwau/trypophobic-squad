@@ -10,10 +10,6 @@ Power in misery border
 
 
 
-## Requirements
-
-- **Crus ModLoader**
-
 ## Installation
 
 1. Make sure [Crus ModLoader](https://github.com/crus-modloader) is installed and set up.
