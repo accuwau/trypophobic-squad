@@ -12,7 +12,7 @@ Power in misery border
 
 ## Installation
 
-1. Make sure [Crus ModLoader](https://github.com/crus-modloader) is installed and set up.
+1. Make sure [Crus ModLoader](https://github.com/CruS-Modding-Infrastructure/crus-modloader) is installed and set up.
 2. click the green "Code" button and press "Download Zip"
 3. Extract and move the "Trypophobic Squad" folder into (`%appdata%\Godot\app_userdata\Cruelty Squad\mods`, and for linux users: `~/.local/share/Steam/steamapps/compatdata/1388770/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/Cruelty Squad/mods`)
 4. Launch the game, the mod should now be active :D.
