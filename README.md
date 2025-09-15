@@ -2,17 +2,17 @@
 
 This is a mod for [Cruelty Squad](https://store.steampowered.com/app/1388770/Cruelty_Squad/) that requires [Crus ModLoader](https://github.com/CruS-Modding-Infrastructure/crus-modloader) to run.
 
+This changes some ingame textures (lmk if you have any suggestions) to remove some of the trypophobia inducing elements, since they creeped me out.
+
 ## Current changes:
 
 Power in misery border
 
-
-
-
+Flechette icon (not sure why this one creeped me out so much)
 
 ## Installation
 
-1. Make sure [Crus ModLoader](https://github.com/CruS-Modding-Infrastructure/crus-modloader) is installed and set up.
+1. Make sure [Crus ModLoader](https://github.com/crus-modloader) is installed and set up.
 2. click the green "Code" button and press "Download Zip"
 3. Extract and move the "Trypophobic Squad" folder into (`%appdata%\Godot\app_userdata\Cruelty Squad\mods`, and for linux users: `~/.local/share/Steam/steamapps/compatdata/1388770/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/Cruelty Squad/mods`)
 4. Launch the game, the mod should now be active :D.
