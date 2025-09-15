@@ -1,5 +1,7 @@
 # Cruelty Squad - Trypophobia Squad Mod
 
+<img src="https://github.com/accuwau/trypophobic-squad/raw/master/media/border3.png" title="" alt="border3.jpg" width="600">
+
 This is a mod for [Cruelty Squad](https://store.steampowered.com/app/1388770/Cruelty_Squad/) that requires [Crus ModLoader](https://github.com/CruS-Modding-Infrastructure/crus-modloader) to run.
 
 This changes some ingame textures (lmk if you have any suggestions) to remove some of the trypophobia inducing elements, since they creeped me out.
